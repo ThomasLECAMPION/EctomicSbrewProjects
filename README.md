@@ -8,8 +8,6 @@ Beware of ugly code tho, I'm hella lazy when coding SBs.
 
 ---
 
-## 👤 My osu! profile
+## My osu! profile
 
 Feel free to check out my maps and storyboards: [Ectomic](https://osu.ppy.sh/users/4069690)
-
----
