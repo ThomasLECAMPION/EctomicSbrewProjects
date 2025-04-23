@@ -1,0 +1,36 @@
+﻿FormatVersion: 7
+Name: "KIAIS"
+Script: "Characters"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "1"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  ea4cfdf63ba246a5815b5e24e41e3b78:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  4997ffbecf444ac2b0492413e84072e1:
+    Name: "KiaiParticles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  82f39adbd7784482a2ea4f8a98561bfe:
+    Name: "Curtain"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  be0fcdd00f0f41629fce6afcac8f4144:
+    Name: "Background2"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  a7e4b6034c0348538572c904caa89ac7:
+    Name: "RainTop"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

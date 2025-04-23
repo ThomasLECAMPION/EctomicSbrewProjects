@@ -1,0 +1,56 @@
+﻿FormatVersion: 7
+Name: "Storyboard 1"
+Script: "Storyboard"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  acb6a87df8c14bf3ac1b57d1186ae5ab:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  8ed6723d50ef49e1bab4f176f27f6cf9:
+    Name: "Rain"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d5d0265e7e17491487d2b6fb6c071729:
+    Name: "FlashLight"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  04ec890d77fd4065a130f200616702aa:
+    Name: "Additive"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  edb455dd5bb24a4093f9b9573034b09f:
+    Name: "BackgroundAdditive"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  be6e912d8d7b4f0780f98694f29288c4:
+    Name: "Pulse"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  3703bd9a491743d881ba7e648653cc84:
+    Name: "Vignette"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  4fdab353538642b58b068bf8b4c3a747:
+    Name: "Top"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  7d9a87e0dca748509d9432723f873d6c:
+    Name: "Playfield"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

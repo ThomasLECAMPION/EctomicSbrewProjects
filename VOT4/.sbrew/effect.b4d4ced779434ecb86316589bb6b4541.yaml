@@ -1,0 +1,41 @@
+﻿FormatVersion: 7
+Name: "BackgroundPlay 1"
+Script: "BackgroundPlay"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  239d00435bd04b81b640273679cb56cf:
+    Name: "RipplesKiai"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  cdc9eede0056429d8a80f62985a3a522:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  0515e6e5195d4298b6181608539426b3:
+    Name: "Background2"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f311904685da4971ac54c0cad9a48294:
+    Name: "BottomObjects"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d21eca35e22748bf8e51befc5beb7937:
+    Name: "Noise"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  eda6668dae4048aeb27bb4d9c8bf24c6:
+    Name: "Pulse"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

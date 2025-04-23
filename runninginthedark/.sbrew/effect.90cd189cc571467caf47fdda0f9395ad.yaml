@@ -1,0 +1,76 @@
+﻿FormatVersion: 7
+Name: "Storyboard 1"
+Script: "Storyboard"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "2"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  e1690c55f923480fb535b42b47b6167a:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  287ad4d250fa45b0a25f206869d6f427:
+    Name: "Particles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  434663da0b3a44378698dd2d44c2a0d6:
+    Name: "BackgroundKiai"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c43a645dd9304da59a085970fbdf3cec:
+    Name: "BlurCalm"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  1858b40a2caa4835966a841f7db6d797:
+    Name: "Cinema"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  bd73fba2d3ab47d99f46282b9b1d32c4:
+    Name: "FlashBlur"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  54b4b7f70d494698a78aea0131161050:
+    Name: "KiaiEffect"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  37634da253c946d096b8b6398128e26a:
+    Name: "Top"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f5b54ac2e8f04b4eb16033fb819f6390:
+    Name: "kiaiStart"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  aa5969b9abd14c7a951af5e6fc47dfe3:
+    Name: "FlashKiai"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d36d89b10bb64e2d9d2d4341039173c2:
+    Name: "Vignette"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  c447fed27b16480487b0efc2ce35aeea:
+    Name: "CinemaEnding"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  38dd7713b77a4ce0a38f3863a702b009:
+    Name: "Playfield"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

@@ -1,0 +1,16 @@
+﻿FormatVersion: 7
+Name: "DeleteBackground 1"
+Script: "DeleteBackground"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  16c96ada329a41a6bd73c7251ab48191:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

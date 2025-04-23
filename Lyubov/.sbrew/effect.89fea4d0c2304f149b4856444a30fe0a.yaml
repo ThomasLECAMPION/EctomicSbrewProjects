@@ -1,0 +1,26 @@
+﻿FormatVersion: 7
+Name: "BACKGROUND 1"
+Script: "BACKGROUND"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  74c5317f1f814d858b18863b320b4b39:
+    Name: "BACKGROUND"
+    OsbLayer: Background
+    DiffSpecific: Yes
+    Visible: Yes
+  e4fe36c6928547f8899f210d0047affc:
+    Name: "VIGNETTE"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes
+  553555316e884a139b90e0ab5b19edd5:
+    Name: "FADING"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

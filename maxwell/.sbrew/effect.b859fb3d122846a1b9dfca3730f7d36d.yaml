@@ -1,0 +1,31 @@
+﻿FormatVersion: 7
+Name: "Scroller 1"
+Script: "Scroller"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "1"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  9a28eddbf6ba405d9ebc658319f112b2:
+    Name: "TopBack"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  04ef0ed63cce4b55991d16f2039bb95c:
+    Name: "TopParticles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  48f30220ae0d4b449bff59a0b446bd8b:
+    Name: "Cursor"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  aee9edde61664812a1be846e0022e117:
+    Name: "TopFront"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

@@ -1,0 +1,50 @@
+﻿FormatVersion: 7
+Name: "EasyTaikoTop 1"
+Script: "EasyTaikoTop"
+Multithreaded: No
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "156"
+    DisplayName: "Start Time"
+    BeginsGroup: "Timing"
+  EndTime:
+    Type: "System.Int32"
+    Value: "1705548"
+    DisplayName: "End Time"
+  LoopDuration:
+    Type: "System.Int32"
+    Value: "43728"
+    DisplayName: "Loop Duration"
+  SpritePath:
+    Type: "System.String"
+    Value: "sb/masks/iso.png"
+    DisplayName: "Sprite Path"
+    BeginsGroup: "Sprite"
+  OffsetY:
+    Type: "System.Int32"
+    Value: "-82"
+    DisplayName: "Offset Y"
+  Color:
+    Type: "OpenTK.Graphics.Color4"
+    Value: "0.09780396,0.09780396,0.09780396,0.1268248"
+  RightToLeft:
+    Type: "System.Boolean"
+    Value: "True"
+    DisplayName: "Right To Left"
+    BeginsGroup: "Additional"
+  TaikoPlayfield:
+    Type: "System.Boolean"
+    Value: "False"
+    DisplayName: "Taiko Playfield"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  23b88c635ec04843aeacef53ef0d4ed5:
+    Name: "TaikoTop"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

@@ -1,0 +1,21 @@
+﻿FormatVersion: 7
+Name: "LYRICS 1"
+Script: "LYRICS"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  d84a640f1da447a88c4618253be9b1ac:
+    Name: "LYRICS_DIFF"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes
+  33ba777aa28f4a57a315586e3f518000:
+    Name: "Lyrics"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

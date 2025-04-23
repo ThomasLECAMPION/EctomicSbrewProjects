@@ -1,0 +1,36 @@
+﻿FormatVersion: 7
+Name: "Screen 1"
+Script: "Screen"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  b2d21973c49b4ffcaf3cb21a7c67f4ad:
+    Name: "Texture"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  866f3d4fdef2412b81a2460e3fea3b6c:
+    Name: "stars"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  9d8dc0d8742640bfac6ee456692b7c97:
+    Name: "uniBG"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  198bced85d19409ea6e5c70d1ac33547:
+    Name: "Slash"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  41ca7e15e7354fe48ed45475b3df00ad:
+    Name: "Mask"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

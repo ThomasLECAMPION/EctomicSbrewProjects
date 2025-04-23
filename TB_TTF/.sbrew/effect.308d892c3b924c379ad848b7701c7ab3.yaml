@@ -1,0 +1,81 @@
+﻿FormatVersion: 7
+Name: "Storyboard 1"
+Script: "Storyboard"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  ce2500079bb848c4afaeeffe1228f300:
+    Name: "BackgroundNight"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c05d6a5ca70843eba16215d1d4745125:
+    Name: "Particles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c2391a8c817e41e88114863c58c2a1d1:
+    Name: "Rain"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  0d76867f8fa5423b8ac9803480828742:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  3549ff513454495e85500d36fdae5292:
+    Name: "mask"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f90f56507dd74b1cb5aed8e991cd9916:
+    Name: "LyricsCredits"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  2d15ec1221884dce988767302afa244a:
+    Name: "Audio"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  fcf93b6d92f64834b087769be6d94b0e:
+    Name: "Vignette"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  408fc160e9f442e091c7b919aac140b9:
+    Name: "BannerNight"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  c7e47a64de5d4fbda6bd7b5e80dccbc3:
+    Name: "Banner"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  16f00eda3a3c424eb6e0281e763f4fd7:
+    Name: "LyricsCollab"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  4d6183c233404c50b8064f6cefbec225:
+    Name: "pfp"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  4414e3f752b94eaf86e45a1ba0d48b48:
+    Name: "Pulse"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  ae9dd580f0ca4140a006bf5d06c8bf6d:
+    Name: "TaikoTop"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

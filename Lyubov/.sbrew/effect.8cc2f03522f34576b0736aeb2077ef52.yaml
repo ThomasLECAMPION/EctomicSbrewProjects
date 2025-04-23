@@ -1,0 +1,21 @@
+﻿FormatVersion: 7
+Name: "ENDING 1"
+Script: "ENDING"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  e02eb7b8e9154c8c86970f21a51529e0:
+    Name: "BACKGROUND"
+    OsbLayer: Background
+    DiffSpecific: Yes
+    Visible: Yes
+  38bc375034b24856a1aea6c99f121ba5:
+    Name: "FADING"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

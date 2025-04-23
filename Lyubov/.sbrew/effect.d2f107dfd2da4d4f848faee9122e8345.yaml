@@ -1,0 +1,16 @@
+﻿FormatVersion: 7
+Name: "PREKIAI 1"
+Script: "PREKIAI"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  9dfaf97741784e93a8567c7b203fd4e7:
+    Name: "BACKGROUND"
+    OsbLayer: Background
+    DiffSpecific: Yes
+    Visible: Yes

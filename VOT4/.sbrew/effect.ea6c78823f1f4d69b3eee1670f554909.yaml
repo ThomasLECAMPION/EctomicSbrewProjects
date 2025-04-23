@@ -1,0 +1,16 @@
+﻿FormatVersion: 7
+Name: "Top 1"
+Script: "Top"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  6748686b44f34eacbd7a91b867528887:
+    Name: "TopGeometry"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

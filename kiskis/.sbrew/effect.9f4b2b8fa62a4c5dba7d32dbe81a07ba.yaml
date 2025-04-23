@@ -1,0 +1,56 @@
+﻿FormatVersion: 7
+Name: "Storyboard 1"
+Script: "Storyboard"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  902cf1c4b4de48539a8cdb247b74090a:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  8e9473b2f0904e4281da360c48631258:
+    Name: "LyricsBox"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d4da97b90c844c01962733a5db219f64:
+    Name: "Lyrics"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  ffba293e1a374e419238fd81e26fe020:
+    Name: "Vignette"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  0864a37fb022470090eb15d631b8c853:
+    Name: "TaikoTopRed"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  44deab906bb14dfa963d5f93904995eb:
+    Name: "TaikoTop"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  2b083d0e38b049bb91a0e69038496316:
+    Name: "Titles"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  0967ca6f8a834acbae1117725da95037:
+    Name: "Loading"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  4bd64271bd7445a2ae5ea09ec8a9b987:
+    Name: "Playfield"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

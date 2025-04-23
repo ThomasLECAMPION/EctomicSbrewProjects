@@ -1,0 +1,31 @@
+﻿FormatVersion: 7
+Name: "Storyboard 1"
+Script: "Storyboard"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  4c9cd95f84a84a41a7054ff79f94037c:
+    Name: "Background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: No
+  43994e52e08c49068ce02887cd54ae28:
+    Name: "Vignette"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  06aa7954e3cc4b53aa9a4e39aed7b6bb:
+    Name: "Top"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  83ec9dbc36794aaaa716d652c2cfafaf:
+    Name: "Playfield"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
